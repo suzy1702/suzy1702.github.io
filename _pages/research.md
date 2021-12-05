@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Growth and Etching Dynamics of Low-dimensional Materials
+## Growth and Etching Dynamics of Low-dimensional Materials
 
 ![Competitive growth and etching dynamics of graphene](/images/growth.png "Phase-field modeling")
 
@@ -14,7 +14,7 @@ Explore the competitive growth and etching dynamics of low-dimensional materials
 Selected Papers: *Carbon* 141, 316-322 (2019); _NSR_, nwaa298 (2020); _2D Mater_, 9, 015004 (2022)
 
 
-# Single-particle Irradiation Effect in Low-dimensional Materials and Structures
+## Single-particle Irradiation Effect in Low-dimensional Materials and Structures
 
 ![Charge/energy exchange and deposition effect in graphene](/images/radiation.png "Real-time time-depndent density functional theory simulation")
 
