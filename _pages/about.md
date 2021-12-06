@@ -12,7 +12,7 @@ redirect_from:
 I am a final-year PhD student (2017 - present) of Solid Mechanics in the School of Aerospace at Tsinghua University. I am fortunate to be advised by Prof. [Zhiping Xu](https://scholar.google.com/citations?user=VNcqui8AAAAJ&hl=en). Before that, I received bachelor degree in Engineering Mechanics from Tsinghua University. 
 
         
-I am generally interested in dynamics processes of low-dimensional mateiral and structure synthesis and the related modulation on its properties. My research mainly covers the growth and etching behaviors of low-dimentsional materials and the single-particle irradiation effect in low-dimensional material and structures.
+I am generally interested in dynamics processes of low-dimensional material and structure synthesis and the related modulation on its properties. My research mainly covers the growth/etching behaviors and the single-particle irradiation effect in low-dimensional material and structures.
 
 ## Featured Publications
 
