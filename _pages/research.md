@@ -25,6 +25,6 @@ Selected Papers: *Carbon* 141, 316-322 (2019); _NSR_, nwaa298 (2020); _2D Mater_
     < img width="33%" src="/images/growth.png"> 
 </p > -->
 
-Explore the single-particle irradiation effect in the low-dimensional materials and structures through multi-scale simulation methods. Specifically, I currently work on the electronic excitation and current response of graphene-based FETS under proton irradiation.
+Explore the single-particle irradiation effect in the low-dimensional materials and structures through multi-scale simulation methods. Specifically, I worked on the electronic excitation and current response of graphene-based FETs under proton irradiation.
 
-Selected Papers: *Nanotechnology* 32(16), 165702 (2021); *JAP* 126(12), 125902 (2019)
+Selected Papers: *Small Science* 3(7), 2300011 (2024); *Nanotechnology* 32(16), 165702 (2021); *JAP* 126(12), 125902 (2019)
