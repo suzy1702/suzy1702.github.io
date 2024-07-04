@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-[9] **W He**, L Zhai, C Yam*, Z Xu*, [Current Transients in Graphene Electronics under Single-Particle Irradiation](https://assets.researchsquare.com/files/rs-754114/v1_covered.pdf?c=1631877735). _Small Science_, 3(7), 2300011 (2024).
+[9] **W He**, L Zhai, C Yam\*, Z Xu\*, [Current Transients in Graphene Electronics under Single-Particle Irradiation](https://onlinelibrary.wiley.com/doi/full/10.1002/smsc.202300011). _Small Science_, 3(7), 2300011 (2024).
 
-[8] Q Zhang<sup>†</sup>, **W He**<sup>†</sup>, Z Xu, L Li, D Geng*, W Hu*, [Oxygen-assisted anisotropic chemical etching of MoSe$_2$ for enhanced phototransistors](https://pubs.acs.org/doi/10.1021/acs.chemmater.2c00694). _Chemistry of Materials_, 34(9), 4212–4223 (2022).
+[8] Q Zhang<sup>†</sup>, **W He**<sup>†</sup>, Z Xu, L Li, D Geng\*, W Hu\*, [Oxygen-assisted anisotropic chemical etching of MoSe$$_2$$ for enhanced phototransistors](https://pubs.acs.org/doi/10.1021/acs.chemmater.2c00694). _Chemistry of Materials_, 34(9), 4212–4223 (2022).
 
 [7] H Liu<sup>†</sup>, **W He**<sup>†</sup>, Z Liu, I Abidi, Y Ding, P Galligan, M Tamtaji, J Li, Y Cai, T Kang, H Wong, Z Li, P Zhao, Z Gao, Y Mi, Z Xu\*, Z Luo\*, [Structure evolution of hBN grown on molten Cu by regulating precursor flux during chemical vapor deposition](https://iopscience.iop.org/article/10.1088/2053-1583/ac2e59/meta). _2D Materials_, 9, 015004 (2022).
 
