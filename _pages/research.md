@@ -20,7 +20,7 @@ Selected Papers: *Carbon* 141, 316-322 (2019); _NSR_, nwaa298 (2020); _2D Mater_
 ## 2. Single-Particle Irradiation Effect in Low-dimensional Materials and Structures
 
 
-![Charge/energy exchange and deposition effect in graphene](/images/radiation.png "Real-time time-depndent density functional theory simulation"){:height="80%" width="80%"}
+![Charge/energy exchange and deposition effect in graphene](/images/radiation.png "Real-time time-depndent density functional theory simulation"){:height="60%" width="60%"}
 <!-- <p align="center" width="100%">
     < img width="33%" src="/images/growth.png"> 
 </p > -->

@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wanzhen He"
   avatar           : "profile.jpg"
-  bio              : "Mechanics PhD student at Tsinghua, School of Aerospace"
-  location         : "Beijing, China"
+  bio              : "Engineer at ASTRI"
+  location         : "HK SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y7yC1IAAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wanzhenhe0909/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4056-0830"
   pinterest        :
   soundcloud       :
