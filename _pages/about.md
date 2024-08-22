@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am currently working on 3D IC and advanced packaging area in Hong Kong Applied Science and Technology Research Institute Company Limited ([ASTRI](https://www.astri.org/)). I obtained my PhD degree of Solid Mechanics in the School of Aerospace at Tsinghua University, where I was fortunate to be advised by Prof. [Zhiping Xu](https://scholar.google.com/citations?user=VNcqui8AAAAJ&hl=en). Before that, I received bachelor degree in Engineering Mechanics from Tsinghua University. 
+I am currently an engineer in Hong Kong Applied Science and Technology Research Institute Company Limited ([ASTRI](https://www.astri.org/)). I obtained my PhD degree of Solid Mechanics in the School of Aerospace at Tsinghua University, where I was fortunate to be advised by Prof. [Zhiping Xu](https://scholar.google.com/citations?user=VNcqui8AAAAJ&hl=en). Before that, I received bachelor degree in Engineering Mechanics from Tsinghua University. 
         
-My PhD thesis mainly focuses on dynamics processes of low-dimensional material and structure synthesis and the related modulation on its properties, covering the growth/etching behaviors and the single-particle irradiation effect in low-dimensional material and structures.
+My PhD thesis mainly focuses on dynamics processes of low-dimensional material and structure synthesis and the related modulation on its properties.
 
 
 ## Featured Publications
